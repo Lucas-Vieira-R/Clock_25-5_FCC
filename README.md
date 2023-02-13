@@ -28,6 +28,8 @@ A Pomodoro Technique timer built with React that helps increase productivity by 
 ## Testing
 This project includes automated tests to ensure that the code works as expected. The tests are included with the FreeCodeCamp CDN, and can be tested on the page.
 
+## Live View
+This project can be viewed Live on : [Live](https://clock-25-5-fcc-lucas-vieira-r.vercel.app)
 
 ## Contributions
 Contributions are welcome! If you have any suggestions or found a bug, please feel free to create an issue or open a pull request.
