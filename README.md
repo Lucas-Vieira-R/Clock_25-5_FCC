@@ -20,7 +20,7 @@ A Pomodoro Technique timer built with React that helps increase productivity by 
 - [Vite](https://vitejs.dev): A fast and efficient JavaScript build tool.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1. Clone the repository: `git clone https://github.com/Lucas-Vieira-R/Clock_25-5_FCC.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm run dev` or `yarn dev`
 4. Open your browser and navigate to `http://localhost:5173/`
