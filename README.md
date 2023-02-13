@@ -11,7 +11,7 @@ A Pomodoro Technique timer built with React that helps increase productivity by 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [React-Icons](https://react-icons.github.io/react-icons/): A library of popular icons.
 - [Context API](https://reactjs.org/docs/context.html): A way to share data between components without using props drilling.
-- [Vite](https://vitejs.com/): A fast and efficient JavaScript build tool.
+- [Vite](https://vitejs.dev): A fast and efficient JavaScript build tool.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
@@ -22,8 +22,6 @@ A Pomodoro Technique timer built with React that helps increase productivity by 
 ## Testing
 This project includes automated tests to ensure that the code works as expected. The tests are included with the FreeCodeCamp CDN, and can be tested on the page.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributions
 Contributions are welcome! If you have any suggestions or found a bug, please feel free to create an issue or open a pull request.
