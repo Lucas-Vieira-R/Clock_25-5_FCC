@@ -2,10 +2,16 @@
 
 A Pomodoro Technique timer built with React that helps increase productivity by breaking down work into focused, timed sessions. This project is part of [FreeCodeCamp's Front End Libraries Certification](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/).
 
+
+![ligth-mode](img/light-clock.png)
+
 ## Features
 - Customizable work and break sessions: Users can set the duration of the work and break sessions to fit their specific needs.
 - Light/Dark theme switch: The user can switch between a light and dark theme for a more personalized experience.
 - User-friendly interface: The clock has a clean and intuitive interface that is easy to use.
+
+
+![dark-mode](img/dark-clock.png)
 
 ## Tech Stack
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
